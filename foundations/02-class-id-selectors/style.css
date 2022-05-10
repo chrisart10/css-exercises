@@ -1,15 +1,16 @@
 .odd{
-    background-color: lightpink;
+    background-color: rgb(253, 171, 184);
     font-family: Verdana,"DejaVu Sans",sans-serif;
 }
 .cooler{
     font-size: 24px;
 }
 #second{
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 #fourth{
-    background-color: lightgreen;
+    background-color: hsl(120, 73%, 75%);
     font-size: 24px;
-}
+    font-weight: 700;
+}|
