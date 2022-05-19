@@ -24,3 +24,25 @@ img {
   justify-content: center;
   background: #eee;
 }
+/* My solution */
+.flex-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap:32px;
+}
+
+.cards-container{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+.card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+.text{
+  text-align: center;
+}
