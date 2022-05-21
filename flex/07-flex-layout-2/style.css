@@ -71,3 +71,6 @@ body{
   justify-content: center;
   align-items: center;
 }
+li{
+  margin-bottom: 16px;
+}
